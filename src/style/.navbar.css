@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 40px;
+  background: rgba(18, 128, 110, 0.642);
+  border-bottom: 1px solid #ddd;
+  color: white;
+  position: sticky;
+}
+
+.logo {
+  font-weight: bold;
+}
+.search-input {
+  width: 250px;
+  padding: 8px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+.nav-link {
+  margin-right: 20px;
+  text-decoration: none;
+  color: #333;
+}
+
+.nav-btn {
+  background: #7f3b26;
+  color: white;
+  padding: 6px 14px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+

@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #9496a0;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+}
+
+.post {
+  background: white;
+  padding: 15px;
+  margin: 10px 0;
+  border-radius: 8px;
+}
+
+.post a {
+  text-decoration: none;
+  color: #2c3e50;
+}
+
+.post a:hover {
+  color: #0984e3;
+}
+
+.create-link {
+  display: inline-block;
+  margin-bottom: 15px;
+  color: #0984e3;
+}
